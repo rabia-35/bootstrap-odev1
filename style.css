@@ -1,0 +1,28 @@
+.first{
+    background-color:rgb(224, 142, 53);
+    text-align: center;
+}
+.logo{
+    border-radius: 40%;
+    -webkit-box-shadow: 0 0 0 3px white, 0 6px 4px black;
+	-moz-box-shadow: 0 0 0 3px white, 0 6px 4px black;
+	box-shadow: 0 0 0 3px white, 0 6px 4px black;
+}
+p,h1,h2,a {
+    font-family:cursive;
+    
+}
+.second{
+    background-color: rgb(77, 77, 77);
+}
+.footer{
+    padding-left: 10%;
+    padding-top: 7%;
+    background-color: rgb(77, 77, 77);
+}
+.ftrimg{
+    border-radius: 60%;
+}
+.section{
+    padding-top: 5%;
+}
